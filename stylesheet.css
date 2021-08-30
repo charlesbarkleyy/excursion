@@ -3,5 +3,26 @@
     font-family: Verdana;
     font-weight: normal;
     color: white;
-    align-content: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+a{
+    font-size: 16px;
+    color: aquamarine;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+p{
+    font-size: 21px;
+    color: gray;
+}
+p.copy{
+    text-align: right;
+    
 }
